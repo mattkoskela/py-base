@@ -5,7 +5,7 @@ setup(
     version="1.0.0",
     author="Matt Koskela",
     author_email="mattkoskela@gmail.com",
-    packages=["namespace", "namespace.package_name"],
+    packages=["namespace", "namespace.pybase"],
     namespace_packages = ["namespace"],
     url="http://example.com/",
     license="LICENSE",
