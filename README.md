@@ -1,4 +1,4 @@
 pybase
 ======
 
-Base python package
+Base python package with namespace
