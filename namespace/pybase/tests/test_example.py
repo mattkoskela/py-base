@@ -26,7 +26,7 @@ class TestPyBase(unittest.TestCase):
         """ This tears down the sample tests"""
 
         self.test = None
-    
+
     def test_add_stuff(self):
         """ Tests Math.add_stuff() """
 

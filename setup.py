@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="pybase",
-    version="2.0.0",
+    version="2.0.1",
     author="Matt Koskela",
     author_email="mattkoskela@gmail.com",
     packages=["namespace", "namespace.pybase"],
